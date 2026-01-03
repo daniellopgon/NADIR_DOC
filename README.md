@@ -31,4 +31,4 @@ La documentación incluye los estudios sobre la implementación de protocolos cl
 
 ## Licencia y Contacto
 
-Todo el material contenido en este repositorio, incluyendo textos, diagramas e investigaciones, está protegido por derechos de autor. Este repositorio es un compendio de conocimiento técnico y científico. Para acceder al producto final o solicitar información adicional sobre el código fuente, contacte con los autores a través del repositorio de GitHub.
+Todo el material contenido en este repositorio, incluyendo textos, diagramas e investigaciones, está protegido por derechos de autor. Este repositorio es un compendio de conocimiento técnico y científico. Para acceder al producto final o solicitar información adicional sobre el código fuente, contacte con el autor a través del repositorio de GitHub.
