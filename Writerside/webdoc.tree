@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="webdoc"
+                 name="NADIR"
+                 start-page="introduccion.md">
+
+    <toc-element topic="introduccion.md"/>
+    <toc-element topic="justificacion.md"/>
+    <toc-element topic="diseno-y-metodologia.md"/>
+    <toc-element topic="objetivos.md"/>
+    <toc-element topic="marco-teorico.md">
+        <toc-element topic="ansiedad-panico.md"/>
+        <toc-element topic="respiracion-diafragmatica.md"/>
+        <toc-element topic="biofeedback.md"/>
+        <toc-element topic="feedback-haptico.md"/>
+
+    </toc-element>
+    <toc-element topic="Desarrollo.md">
+        <toc-element topic="arquitectura.md"/>
+        <toc-element topic="sensor-acelerometro.md"/>
+        <toc-element topic="deteccion-respiracion.md"/>
+        <toc-element topic="algoritmo-deteccion-respiracion.md"/>
+        <toc-element topic="guia-haptica.md"/>
+        <toc-element topic="tts-audio.md"/>
+
+    </toc-element>
+    <toc-element topic="Resultados.md"/>
+    <toc-element topic="analisis.md"/>
+    <toc-element topic="conclusiones.md"/>
+    <toc-element topic="bibliografia.md"/>
+    <toc-element topic="anexos.md"/>
+</instance-profile>

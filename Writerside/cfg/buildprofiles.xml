@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables/>
+
+    <build-profile instance="webdoc">
+        <variables>
+            <header-logo>nadir-logo.png</header-logo>
+            <product-web-url>https://daniellopgon.github.io/NADIR</product-web-url>
+            <download-title>Ver en GitHub</download-title>
+            <download-page>https://github.com/daniellopgon/NADIR</download-page>
+            <showDownloadButton>true</showDownloadButton>
+            <custom-favicons>favicon-16x16.png,favicon-32x32.png</custom-favicons>
+            <noindex-content>false</noindex-content>
+        </variables>
+        <sitemap priority="0.35" change-frequency="monthly"/>
+    </build-profile>
+
+    <footer>
+        <link href="https://github.com/daniellopgon/NADIR">GitHub</link>
+
+        <copyright>NADIR - Proyecto de Investigación 2024</copyright>
+    </footer>
+
+</buildprofiles>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="1a898fb">
+        <description>Created after removal of "Bibliografía" from webdoc</description>
+        <accepts>bibliografia.html</accepts>
+    </rule>
+    <rule id="2b043603">
+        <description>Created after removal of "Home2" from webdoc</description>
+        <accepts>index_md.html</accepts>
+    </rule>
+    <rule id="403402b0">
+        <description>Created after removal of "Example" from webdoc</description>
+        <accepts>starter-topic.html</accepts>
+    </rule>
+    <rule id="70c76d32">
+        <description>Created after removal of "Problema" from webdoc</description>
+        <accepts>Problema.html</accepts>
+    </rule>
+    <rule id="b301c8b">
+        <description>Created after removal of "Empty MD Topic" from webdoc</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+</rules>
