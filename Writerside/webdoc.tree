@@ -31,4 +31,6 @@
     <toc-element topic="conclusiones.md"/>
     <toc-element topic="bibliografia.md"/>
     <toc-element topic="anexos.md"/>
+    <toc-element topic="politica-privacidad.md"/>
+    <toc-element topic="licencia.md"/>
 </instance-profile>
