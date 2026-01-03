@@ -1,4 +1,5 @@
-# NADIR: Navegación Asistida De Intervención Respiratoria
+# NADIR
+
 
 Documentación Técnica e Investigación Científica
 
