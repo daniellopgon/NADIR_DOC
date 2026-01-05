@@ -1,17 +1,13 @@
 # Política de Privacidad de NADIR
 
-Última actualización: 3 de Enero de 2026
+Última actualización: 5 de Enero de 2026
 
-Esta política describe el tratamiento de datos personales en la aplicación NADIR, desarrollada por Daniel López.
+Esta Política de Privacidad describe cómo NADIR recopila, utiliza y protege la información cuando se utiliza la aplicación de biofeedback respiratorio desarrollada por Daniel López González con domicilio en España y correo electrónico de contacto daniel.lopgon.4@gmail.com. El compromiso con la privacidad implica el cumplimiento del Reglamento General de Protección de Datos de la Unión Europea, la Ley Orgánica de Protección de Datos y Garantía de los Derechos Digitales de España y las Políticas de Datos de Usuario de Google Play.
 
-La aplicación cumple con las Políticas de Datos de Usuario de Google Play. Tu privacidad es importante. No vendemos ni transferimos tus datos a terceros.
+NADIR accede a los datos del acelerómetro del dispositivo exclusivamente para detectar los movimientos respiratorios durante las sesiones de biofeedback procesándolos únicamente en tiempo real dentro del dispositivo sin almacenarlos de forma permanente ni transmitirlos a servidores externos ya que se eliminan automáticamente al finalizar cada sesión. La aplicación puede almacenar localmente en el dispositivo estadísticas básicas de uso y preferencias de configuración que residen exclusivamente en la memoria del teléfono y nunca abandonan el dispositivo. En caso de fallo técnico pueden recopilarse automáticamente registros de errores, información técnica del dispositivo e identificadores anónimos utilizados exclusivamente para identificar y corregir errores de software y mejorar la estabilidad de la aplicación.
 
-NADIR utiliza los sensores del acelerómetro de tu dispositivo únicamente para detectar el movimiento de la respiración y guiar la sesión de biofeedback. Estos datos se procesan exclusivamente en tu teléfono en tiempo real. No se guardan grabaciones ni se envían a servidores externos.
+El tratamiento de datos se fundamenta en el interés legítimo para el funcionamiento esencial de la aplicación mediante el procesamiento de sensores en tiempo real y en el consentimiento para la recopilación opcional de datos de diagnóstico. Las medidas de seguridad implementadas garantizan que los datos biométricos nunca abandonen el dispositivo accediendo solo a los sensores estrictamente necesarios sin utilizar almacenamiento en la nube ni incluir publicidad o rastreadores de terceros. NADIR no vende, alquila ni comparte datos personales con terceros con fines comerciales o de marketing siendo los únicos terceros que pueden recibir datos limitados Google Play Services para la distribución de la aplicación y opcionalmente Firebase Crashlytics para informes de fallos.
 
-También podemos recibir datos técnicos anónimos si la aplicación falla, solo para poder arreglarla.
+Conforme al RGPD y la LOPDGDD el usuario tiene derecho a acceder a sus datos, rectificar datos inexactos, suprimir sus datos mediante la desinstalación de la aplicación ya que todos residen localmente, recibir sus datos en formato estructurado, oponerse al tratamiento y restringir el uso de sus datos contactando a través de daniel.lopgon.4@gmail.com o presentando una reclamación ante la Agencia Española de Protección de Datos si considera que sus derechos han sido vulnerados. Los datos de sensores no se retienen ya que se procesan en tiempo real y se descartan inmediatamente mientras que los datos de sesión locales se retienen hasta la desinstalación de la aplicación y los datos de diagnóstico durante un máximo de noventa días.
 
-Toda la información de tus sesiones se guarda en la memoria de tu móvil. Tú tienes el control total y puedes borrar estos datos desde la propia aplicación o desinstalándola.
-
-NADIR no es un dispositivo médico. Es una herramienta de bienestar. No sirve para diagnosticar ni tratar enfermedades. Consulta siempre a un médico para temas de salud.
-
-Si tienes dudas, puedes escribir a daniel.lopgon.4@gmail.com
+NADIR está diseñada para usuarios mayores de dieciocho años y no recopila intencionadamente información de menores de edad. Es importante aclarar que NADIR es una herramienta de bienestar y no constituye un dispositivo médico por lo que no debe utilizarse para diagnosticar condiciones médicas ni sustituir el tratamiento profesional de salud mental recomendándose contactar con servicios de emergencia locales ante una crisis grave. Esta Política de Privacidad puede actualizarse periódicamente notificándose los cambios significativos mediante la actualización de la fecha de última actualización o mediante notificación dentro de la aplicación.

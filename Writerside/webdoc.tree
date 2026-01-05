@@ -4,33 +4,30 @@
 
 <instance-profile id="webdoc"
                  name="NADIR"
-                 start-page="introduccion.md">
+                 start-page="01_Contexto_y_Objetivos.md">
 
-    <toc-element topic="introduccion.md"/>
-    <toc-element topic="justificacion.md"/>
-    <toc-element topic="diseno-y-metodologia.md"/>
-    <toc-element topic="objetivos.md"/>
-    <toc-element topic="marco-teorico.md">
-        <toc-element topic="ansiedad-panico.md"/>
-        <toc-element topic="respiracion-diafragmatica.md"/>
-        <toc-element topic="biofeedback.md"/>
-        <toc-element topic="feedback-haptico.md"/>
-
+    <toc-element topic="01_Contexto_y_Objetivos.md" toc-title="Contexto y Objetivos"/>
+    
+    <toc-element toc-title="Fundamentos Teóricos">
+        <toc-element topic="06_Fundamentos_Teoricos_Ansiedad.md" toc-title="Ansiedad y Pánico"/>
+        <toc-element topic="07_Fisiologia_Respiratoria.md" toc-title="Fisiología Respiratoria"/>
+        <toc-element topic="08_Ciencia_del_Biofeedback.md" toc-title="Ciencia del Biofeedback"/>
+        <toc-element topic="09_Diseno_Multisensorial_Haptica.md" toc-title="Diseño Multisensorial"/>
+        <toc-element topic="10_Investigacion_Diseno_UI_Salud.md" toc-title="Diseño UI para Salud"/>
     </toc-element>
-    <toc-element topic="Desarrollo.md">
-        <toc-element topic="arquitectura.md"/>
-        <toc-element topic="sensor-acelerometro.md"/>
-        <toc-element topic="deteccion-respiracion.md"/>
-        <toc-element topic="algoritmo-deteccion-respiracion.md"/>
-        <toc-element topic="guia-haptica.md"/>
-        <toc-element topic="tts-audio.md"/>
 
+    <toc-element toc-title="Desarrollo Técnico">
+        <toc-element topic="02_Arquitectura_y_Diseno.md" toc-title="Arquitectura y Diseño"/>
+        <toc-element topic="03_Implementacion_Tecnica.md" toc-title="Implementación Técnica"/>
+        <toc-element topic="04_Resultados_y_Conclusiones.md" toc-title="Resultados y Conclusiones"/>
     </toc-element>
-    <toc-element topic="Resultados.md"/>
-    <toc-element topic="analisis.md"/>
-    <toc-element topic="conclusiones.md"/>
-    <toc-element topic="bibliografia.md"/>
-    <toc-element topic="anexos.md"/>
-    <toc-element topic="politica-privacidad.md"/>
-    <toc-element topic="licencia.md"/>
+
+    <toc-element topic="05_Manuales_y_Referencias.md" toc-title="Referencias y Bibliografía"/>
+
+    <toc-element toc-title="Legal">
+        <toc-element topic="licencia.md" toc-title="Licencia de Uso"/>
+        <toc-element topic="politica-privacidad.md" toc-title="Política de Privacidad"/>
+    </toc-element>
+
+    <toc-element topic="autor.md" toc-title="Sobre el Autor"/>
 </instance-profile>
